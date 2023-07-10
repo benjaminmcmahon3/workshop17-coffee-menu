@@ -30,5 +30,5 @@ for (let i = 0; i < coffeeMenu.length; i++){
 console.log(`Drinks on the Menu:\n${drinksOnMenu}\n`);
 console.log(`Drinks under $5:\n${drinksUnderFive}\n`);
 console.log(`Evenly priced drinks:\n${drinksPricedEven}\n`);
-console.log(`Price for all the drinks:\n$${totalPrice}\n`)
+console.log(`Price for all the drinks:\n $${totalPrice}\n`)
 console.log(`Seasonal drinks:\n${seasonalDrinks}\n`);

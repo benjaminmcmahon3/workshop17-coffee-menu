@@ -9,47 +9,47 @@
 
 const coffeeMenu = [
     {
-        name: ' cappuccino',
+        name: 'cappuccino',
         price: 8,
         seasonal: false,
     },
     {
-        name: ' espresso',
+        name: 'espresso',
         price: 5,
         seasonal: false,
     },
     {
-        name: ' latte',
+        name: 'latte',
         price: 5,
         seasonal: false,
     },
     {
-        name: ' affogato',
+        name: 'affogato',
         price: 9,
         seasonal: true,
     }, 
     {
-        name: ' macchiato',
+        name: 'macchiato',
         price: 6,
         seasonal: false,
     },
     {
-        name: ' americano',
+        name: 'americano',
         price: 7,
         seasonal: false,
     },
     {
-        name: ' iced coffee',
+        name: 'iced coffee',
         price: 6,
         seasonal: false,
     },
     {
-        name: ' frappe',
+        name: 'frappe',
         price: 8,
         seasonal: false,
     },
     {
-        name: ' cuban espresso',
+        name: 'cuban espresso',
         price: 10,
         seasonal: true,
     },

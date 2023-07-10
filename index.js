@@ -27,8 +27,8 @@ for (let i = 0; i < coffeeMenu.length; i++){
 };
 
 // use template literals to display the answer arrays as a string with what that grouping is 
-console.log(`Drinks on the Menu:\n${drinksOnMenu}\n`);
-console.log(`Drinks under $5:\n${drinksUnderFive}\n`);
-console.log(`Evenly priced drinks:\n${drinksPricedEven}\n`);
-console.log(`Price for all the drinks:\n $${totalPrice}\n`)
-console.log(`Seasonal drinks:\n${seasonalDrinks}\n`);
+console.log('Drinks on the Menu:', drinksOnMenu);
+console.log('Drinks under $5:', drinksUnderFive);
+console.log('Evenly priced drinks:', drinksPricedEven);
+console.log('Price for all the drinks:', totalPrice)
+console.log('Seasonal drinks:', seasonalDrinks);

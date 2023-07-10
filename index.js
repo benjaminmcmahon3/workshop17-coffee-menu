@@ -1,5 +1,5 @@
 // pulls array of all the coffee data
-const coffeeMenu = require('./workshop17.js');
+const coffeeMenu = require('./coffee_data.js');
 
 // delcare an empty array for each required answer, and a variable to hold the totalPrice
 const drinksOnMenu = [];
